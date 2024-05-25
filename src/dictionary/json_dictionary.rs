@@ -69,10 +69,18 @@ mod tests {
 
     #[test]
     fn return_len_0_on_empty_json() {
-        let json = "{}";
+        let json = "[]";
         let dictionary = JsonDictionary::new(json).unwrap();
 
         assert_eq!(dictionary.len(), 0);
+    }
+
+    #[test]
+    fn return_error_on_root_object_instead_of_array() {
+        let json = "{}";
+        let dictionary = JsonDictionary::new(json);
+
+        assert_eq!(dictionary.is_err(), true);
     }
 
     #[test]
