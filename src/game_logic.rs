@@ -1,5 +1,4 @@
 enum GameState {
-    Loading,
     Stopped,
     Live,
     Ended,
@@ -21,6 +20,8 @@ trait GameLogic: Sync {
 
     // Signalling
     fn input_word(&mut self, word: String) -> bool;
+    fn stop_timer(&mut self);
+    fn start_timer(&mut self);
 
     fn skip_word(&mut self);
     fn reset(&mut self);
