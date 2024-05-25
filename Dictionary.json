@@ -1,0 +1,590 @@
+[
+  {
+    "WORD": "algorithm",
+    "DEFINITION": "A collection of ordered steps that solve a mathematical problem. A precise step-by-step plan for a computational procedure that possibly begins with an input value and yields an output value in a finite number of steps."
+  },
+  {
+    "WORD": "array",
+    "DEFINITION": "A container that can hold many variables"
+  },
+  {
+    "WORD": "authentication",
+    "DEFINITION": "Something which validates or confirms the authenticity of something"
+  },
+  {
+    "WORD": "backup",
+    "DEFINITION": "A reserve or substitute."
+  },
+  {
+    "WORD": "bandwidth",
+    "DEFINITION": "The width, usually measured in hertz, of a frequency band."
+  },
+  {
+    "WORD": "binary",
+    "DEFINITION": "A thing which can have only (one or the other of) two values."
+  },
+  {
+    "WORD": "bit",
+    "DEFINITION": "A single piece of binary data"
+  },
+  {
+    "WORD": "blockchain",
+    "DEFINITION": "A shared record of past transactions in a cryptocurrency network."
+  },
+  {
+    "WORD": "boolean",
+    "DEFINITION": "A variable that can hold a single true/false (1/0) value."
+  },
+  {
+    "WORD": "browser",
+    "DEFINITION": "Application that you can use to browse internet."
+  },
+  {
+    "WORD": "byte",
+    "DEFINITION": "A short sequence of bits (binary digits) that can be operated on as a unit by a computer; the smallest usable machine word."
+  },
+  {
+    "WORD": "cache",
+    "DEFINITION": "A store of things that may be required in the future, which can be retrieved rapidly, protected or hidden in some way."
+  },
+  {
+    "WORD": "cloud",
+    "DEFINITION": "Storage that you can share on many devices at the same time."
+  },
+  {
+    "WORD": "compiler",
+    "DEFINITION": "A thing that translates human readable code to machine code"
+  },
+  {
+    "WORD": "compression",
+    "DEFINITION": "An increase in density, typicaly said when lowering the size of data."
+  },
+  {
+    "WORD": "cybersecurity",
+    "DEFINITION": "Security against electronic attacks such as cyberwarfare."
+  },
+  {
+    "WORD": "database",
+    "DEFINITION": "(general) A collection of (usually) organized information in a regular structure, usually but not necessarily in a machine-readable format accessible by a computer."
+  },
+  {
+    "WORD": "default",
+    "DEFINITION": "The condition of failing to meet an obligation."
+  },
+  {
+    "WORD": "deployment",
+    "DEFINITION": "An arrangement or classification of things."
+  },
+  {
+    "WORD": "gigabyte",
+    "DEFINITION": "(SI) 109, one billion (1,000,000,000) bytes. SI symbol: GB"
+  },
+  {
+    "WORD": "HTTP",
+    "DEFINITION": "Basic web protocol that is almost always present in site's address."
+  },
+  {
+    "WORD": "hyperlink",
+    "DEFINITION": "Some text or a graphic in an electronic document that can be activated to display another document or trigger an action."
+  },
+  {
+    "WORD": "IDE",
+    "DEFINITION": "A program that can be used to effectively write code."
+  },
+  {
+    "WORD": "index",
+    "DEFINITION": "An alphabetical listing of items and their location."
+  },
+  {
+    "WORD": "infrastructure",
+    "DEFINITION": "An underlying base or foundation especially for an organization or system."
+  },
+  {
+    "WORD": "iteration",
+    "DEFINITION": "Recital or performance a second time; repetition."
+  },
+  {
+    "WORD": "keyword",
+    "DEFINITION": "Any word used as the key to a code."
+  },
+  {
+    "WORD": "Linux",
+    "DEFINITION": "An OS system made for people that want to look like they are hacking where in reality they are opening GIMP"
+  },
+  {
+    "WORD": "machine learning",
+    "DEFINITION": "A field of study concerned with the design and development of algorithms and techniques that allow computers to learn."
+  },
+  {
+    "WORD": "malware",
+    "DEFINITION": "Software which has been designed to operate in a malicious, undesirable manner."
+  },
+  {
+    "WORD": "megabyte",
+    "DEFINITION": "One million (106) bytes."
+  },
+  {
+    "WORD": "middleware",
+    "DEFINITION": "Software that functions at an intermediate layer between applications and operating system or database management system, or between client and server"
+  },
+  {
+    "WORD": "module",
+    "DEFINITION": "A self-contained component of a system, often interchangeable, which has a well-defined interface to the other components."
+  },
+  {
+    "WORD": "network",
+    "DEFINITION": "A collection of interconnected devices and systems that communicate and share resources."
+  },
+  {
+    "WORD": null,
+    "DEFINITION": "A non-existent or empty value or set of values."
+  },
+  {
+    "WORD": "object",
+    "DEFINITION": "A thing that has physical existence."
+  },
+  {
+    "WORD": "object-oriented",
+    "DEFINITION": "Using entities called objects that can process data and exchange messages with other objects."
+  },
+  {
+    "WORD": "octet",
+    "DEFINITION": "A group or set of eight of something."
+  },
+  {
+    "WORD": "operating system",
+    "DEFINITION": "Software that controls the allocation and usage of hardware resources such as memory, CPU time, disk space, and input and output devices."
+  },
+  {
+    "WORD": "output",
+    "DEFINITION": "The data or information produced by a computer or system as a result of processing input."
+  },
+  {
+    "WORD": "package",
+    "DEFINITION": "Something which is packed, a parcel, a box, an envelope."
+  },
+  {
+    "WORD": "packet",
+    "DEFINITION": "A small pack or package; a little bundle or parcel"
+  },
+  {
+    "WORD": "parameter",
+    "DEFINITION": "A value kept constant during an experiment, equation, calculation or similar, but varied over other versions of the experiment, equation, calculation, etc."
+  },
+  {
+    "WORD": "password",
+    "DEFINITION": "A word used to gain admittance or to gain access to information."
+  },
+  {
+    "WORD": "patch",
+    "DEFINITION": "A piece of software designed to update, fix, or improve an existing program or its supporting data, often addressing security vulnerabilities, bugs, or performance issues."
+  },
+  {
+    "WORD": "permission",
+    "DEFINITION": "Authorisation; consent (especially formal consent from someone in authority)"
+  },
+  {
+    "WORD": "ping",
+    "DEFINITION": "Utility used to test the reachability of a host on an IP network and to measure the round-trip time for messages sent from the originating host to a destination computer."
+  },
+  {
+    "WORD": "pixel",
+    "DEFINITION": "One of the tiny dots that make up the representation of an image in a computer's memory."
+  },
+  {
+    "WORD": "platform",
+    "DEFINITION": "Hardware that you can make a game on."
+  },
+  {
+    "WORD": "Python",
+    "DEFINITION": "Easy to learn programming language, where code written is akin to english language."
+  },
+  {
+    "WORD": "query",
+    "DEFINITION": "A question, an inquiry (US), an enquiry (UK)."
+  },
+  {
+    "WORD": "RAM",
+    "DEFINITION": "Fast, volataile memory present in all computers."
+  },
+  {
+    "WORD": "repository",
+    "DEFINITION": "A location for storage, often for safety, preservation or version control."
+  },
+  {
+    "WORD": "runtime",
+    "DEFINITION": "The stage during which a program is executing."
+  },
+  {
+    "WORD": "server",
+    "DEFINITION": "A program that provides services to other programs or devices, either in the same computer or over a computer network."
+  },
+  {
+    "WORD": "software",
+    "DEFINITION": "Encoded computer instructions, usually modifiable (unless stored in some form of unalterable memory such as ROM)."
+  },
+  {
+    "WORD": "stack",
+    "DEFINITION": "(heading) A pile."
+  },
+  {
+    "WORD": "storage",
+    "DEFINITION": "The process and technology used to store and preserve digital data for future use."
+  },
+  {
+    "WORD": "syntax",
+    "DEFINITION": "A set of rules that govern how words are combined to form phrases and sentences."
+  },
+  {
+    "WORD": "tag",
+    "DEFINITION": "A small label."
+  },
+  {
+    "WORD": "template",
+    "DEFINITION": "A physical object whose shape is used as a guide to make other objects."
+  },
+  {
+    "WORD": "thread",
+    "DEFINITION": "The smallest unit of execution within a process in a multitasking operating system."
+  },
+  {
+    "WORD": "token",
+    "DEFINITION": "Something serving as an expression of something else."
+  },
+  {
+    "WORD": "transmission",
+    "DEFINITION": "The act of transmitting, e.g. data or electric power."
+  },
+  {
+    "WORD": "upload",
+    "DEFINITION": "Such a file transfer."
+  },
+  {
+    "WORD": "user",
+    "DEFINITION": "One who uses or makes use of something, a consumer/client."
+  },
+  {
+    "WORD": "username",
+    "DEFINITION": "A person's identification on an individual computer system."
+  },
+  {
+    "WORD": "utility",
+    "DEFINITION": "The state or condition of being useful; usefulness."
+  },
+  {
+    "WORD": "variable",
+    "DEFINITION": "Something that can be easily changed"
+  },
+  {
+    "WORD": "version",
+    "DEFINITION": "A specific form or variation of something."
+  },
+  {
+    "WORD": "Wi-Fi",
+    "DEFINITION": "Any of several standards for short-range wireless data transmission (IEEE 802.11)."
+  },
+  {
+    "WORD": "abstraction",
+    "DEFINITION": "The process of simplifying complex systems or concepts by focusing on essential characteristics while ignoring irrelevant details."
+  },
+  {
+    "WORD": "adapter",
+    "DEFINITION": "A cable that can be used to connect two ports which have different shape/standard"
+  },
+  {
+    "WORD": "annotation",
+    "DEFINITION": "A critical or explanatory commentary or analysis"
+  },
+  {
+    "WORD": "antivirus",
+    "DEFINITION": "A piece of software that is used to detect, delete and or neutralize computer-based viruses."
+  },
+  {
+    "WORD": "ASCII",
+    "DEFINITION": "Long-standing standard on how to describe letters and symbols using numbers."
+  },
+  {
+    "WORD": "assembly",
+    "DEFINITION": "The lowest-level programming language. RollerCoaster Tycoon was written entirely in in."
+  },
+  {
+    "WORD": "automation",
+    "DEFINITION": "The act or process of converting the controlling of a machine or device to a more automatic system, such as computer or electronic controls."
+  },
+  {
+    "WORD": "availability",
+    "DEFINITION": "The quality of being available."
+  },
+  {
+    "WORD": "binary tree",
+    "DEFINITION": "A data structure in which each node has at most two children, each node but the root has one parent, and there are no cycles."
+  },
+  {
+    "WORD": "bitrate",
+    "DEFINITION": "The frequency at which bits (binary digits) pass a given physical or metaphorical point, measured in bps (bits per second)."
+  },
+  {
+    "WORD": "boot",
+    "DEFINITION": "The process of starting up a computer system."
+  },
+  {
+    "WORD": "buffer",
+    "DEFINITION": "Temporary storage area used to hold data temporarily while it is being moved from one place to another."
+  },
+  {
+    "WORD": "bus",
+    "DEFINITION": "A communication system that allows various components of a computer system to transfer data between each other. It serves as a pathway or channel through which data travels within a computer or between computers in a network."
+  },
+  {
+    "WORD": "checksum",
+    "DEFINITION": "A number, derived by applying a suitable algorithm to some data, used to check whether errors have occurred in transmission, storage or data entry."
+  },
+  {
+    "WORD": "class",
+    "DEFINITION": "A group, collection, category or set sharing characteristics or attributes."
+  },
+  {
+    "WORD": "cluster",
+    "DEFINITION": "A group or bunch of several discrete items that are close to each other."
+  },
+  {
+    "WORD": "codec",
+    "DEFINITION": "A device or program capable of performing transformations on a data stream or signal."
+  },
+  {
+    "WORD": "commit",
+    "DEFINITION": "The act of committing (e.g. a database transaction or source code into a source control repository), making it a permanent change."
+  },
+  {
+    "WORD": "container",
+    "DEFINITION": "Something that contains many pieces of data."
+  },
+  {
+    "WORD": "dependency",
+    "DEFINITION": "A relationship or connection between two software components or modules, where one component relies on the functionality provided by another component in order to function correctly."
+  },
+  {
+    "WORD": "dictionary",
+    "DEFINITION": "A reference work with a list of words from one or more languages, normally ordered alphabetically, explaining each word's meaning, and sometimes containing information on its etymology, pronunciation, usage, translations, and other data."
+  },
+  {
+    "WORD": "directive",
+    "DEFINITION": "An instruction or guideline that indicates how to perform an action or reach a goal."
+  },
+  {
+    "WORD": "disk",
+    "DEFINITION": "A thin, flat, circular plate or similar object. It comes mainly in two flavours"
+  },
+  {
+    "WORD": "element",
+    "DEFINITION": "One of the simplest or essential parts or principles of which anything consists, or upon which the constitution or fundamental powers of anything are based."
+  },
+  {
+    "WORD": "encoding",
+    "DEFINITION": "To convert (plain text) into code."
+  },
+  {
+    "WORD": "endpoint",
+    "DEFINITION": "Either of the two points at the ends of a line segment."
+  },
+  {
+    "WORD": "encryption",
+    "DEFINITION": "The process of obscuring information to make it unreadable without special knowledge, key files, or passwords."
+  },
+  {
+    "WORD": "entity",
+    "DEFINITION": "That which has a distinct existence as an individual unit. Often used for organisations which have no physical form."
+  },
+  {
+    "WORD": "enumeration",
+    "DEFINITION": "The act of enumerating, making separate mention, or recounting."
+  },
+  {
+    "WORD": "ephemeral",
+    "DEFINITION": "Something which lasts for a short period of time."
+  },
+  {
+    "WORD": "exception",
+    "DEFINITION": "The act of excepting or excluding; exclusion; an unhandled edge-case"
+  },
+  {
+    "WORD": "executable",
+    "DEFINITION": "A file that can be run directly by a computer's hardware or a p-code interpreter with no further processing."
+  },
+  {
+    "WORD": "feature",
+    "DEFINITION": "One's structure and/or an added functionality. Sometimes bugs are labeled as such."
+  },
+  {
+    "WORD": "finite",
+    "DEFINITION": "Having an end or limit; (of a quantity) constrained by bounds; (of a set) whose number of elements is a natural number."
+  },
+  {
+    "WORD": "flag",
+    "DEFINITION": "A control bit used to signal the computer what's happening"
+  },
+  {
+    "WORD": "Git",
+    "DEFINITION": "The most popular software used for version control."
+  },
+  {
+    "WORD": "hypervisor",
+    "DEFINITION": "A firmware or software system that provides a virtual machine and allows it to operate directly on underlying hardware (instead via emulation), but within specified constraints."
+  },
+  {
+    "WORD": "immutable",
+    "DEFINITION": "Something that cannot be changed"
+  },
+  {
+    "WORD": "incognito",
+    "DEFINITION": "One unknown or in disguise, or under an assumed character or name. Many browser have this mode."
+  },
+  {
+    "WORD": "injection",
+    "DEFINITION": "The act of injecting, or something that is injected. Most popular as a form of getting into/destroying SQL databases."
+  },
+  {
+    "WORD": "job",
+    "DEFINITION": "A task."
+  },
+  {
+    "WORD": "lambda",
+    "DEFINITION": "A function that is defined on the fly, only in this one place in the code"
+  },
+  {
+    "WORD": "lifecycle",
+    "DEFINITION": "Various stages or phases through which a system, product, or process progresses from its initiation to its termination or completion."
+  },
+  {
+    "WORD": "log",
+    "DEFINITION": "A record of events or activities generated by a software application, operating system, or system component."
+  },
+  {
+    "WORD": "namespace",
+    "DEFINITION": "A conceptual space that groups classes, identifiers, etc. to avoid conflicts with items in unrelated code that have the same names."
+  },
+  {
+    "WORD": "nested",
+    "DEFINITION": "Mostly refers to loops and if statements. When one of these statements is inside of another one. To many of these and your code is decleared as a \"bad code\"."
+  },
+  {
+    "WORD": "opcode",
+    "DEFINITION": "A mnemonic used to refer to a microprocessor instruction in assembly language."
+  },
+  {
+    "WORD": "overflow",
+    "DEFINITION": "Excess of something; an expression used when you don't have enough space to hold data (for example on the stack)."
+  },
+  {
+    "WORD": "partition",
+    "DEFINITION": "An action which divides a thing into parts, or separates one thing from another. Mostly used on your HDD's and SSD's."
+  },
+  {
+    "WORD": "plaintext",
+    "DEFINITION": "Text or any data that is to be encrypted (as opposed to ciphertext)."
+  },
+  {
+    "WORD": "pointer",
+    "DEFINITION": "Anything that points or is used for pointing. Typically used in c++"
+  },
+  {
+    "WORD": "read-only",
+    "DEFINITION": "Unalterable, capable of being read but not written."
+  },
+  {
+    "WORD": "rebase",
+    "DEFINITION": "To replace the base of a denture."
+  },
+  {
+    "WORD": "reboot",
+    "DEFINITION": "An instance of shutting down and powering up a device."
+  },
+  {
+    "WORD": "recursive",
+    "DEFINITION": "Drawing upon itself, referring back."
+  },
+  {
+    "WORD": "reference",
+    "DEFINITION": "A relationship or relation (to something)."
+  },
+  {
+    "WORD": "relational",
+    "DEFINITION": "Relating to relations."
+  },
+  {
+    "WORD": "replica",
+    "DEFINITION": "An exact copy."
+  },
+  {
+    "WORD": "request",
+    "DEFINITION": "Act of requesting (with the adposition at in the presence of possessives, and on in their absence)."
+  },
+  {
+    "WORD": "resource",
+    "DEFINITION": "Something that one uses to achieve an objective, e.g. raw materials or personnel."
+  },
+  {
+    "WORD": "response",
+    "DEFINITION": "An answer or reply, or something in the nature of an answer or reply."
+  },
+  {
+    "WORD": "rollback",
+    "DEFINITION": "A return to a prior state by undoing some operation."
+  },
+  {
+    "WORD": "router",
+    "DEFINITION": "A network device that connects multiple computer networks together and directs data traffic between them."
+  },
+  {
+    "WORD": "scalability",
+    "DEFINITION": "The property of being scalable."
+  },
+  {
+    "WORD": "socket",
+    "DEFINITION": "An opening into which a plug or other connecting part is designed to fit (e.g. a light bulb socket)."
+  },
+  {
+    "WORD": "source",
+    "DEFINITION": "The person, place or thing from which something (information, goods, etc.) comes or is acquired."
+  },
+  {
+    "WORD": "telemetry",
+    "DEFINITION": "(applied sciences) the science, and associated technology, of the automatic recording and transmission of data from a remote source to a receiving station for analysis"
+  },
+  {
+    "WORD": "terminal",
+    "DEFINITION": "A text-based interface used to interact with a computer system."
+  },
+  {
+    "WORD": "throughput",
+    "DEFINITION": "The rate at which data is processed, transferred, or delivered over a communication channel, computing system, or network within a given period of time."
+  },
+  {
+    "WORD": "transaction",
+    "DEFINITION": "The act of conducting or carrying out (business, negotiations, plans)."
+  },
+  {
+    "WORD": "validation",
+    "DEFINITION": "The act of validating something."
+  },
+  {
+    "WORD": "vulnerability",
+    "DEFINITION": "Susceptibility to attack or injury; the state or condition of being weak or poorly defended."
+  },
+  {
+    "WORD": "workflow",
+    "DEFINITION": "The rate at which a flow of work takes place"
+  },
+  {
+    "WORD": "wrapper",
+    "DEFINITION": "Something that is wrapped around something else as a cover or protection: a wrapping. Usually made to make the process of using some piece of code easier."
+  },
+  {
+    "WORD": "XOR",
+    "DEFINITION": "The logic function exclusive OR (as opposed to inclusive OR), whose output is true only when exactly one of its inputs is true."
+  },
+  {
+    "WORD": "yield",
+    "DEFINITION": "To pay, give in payment; repay, recompense; reward; requite."
+  }
+]
